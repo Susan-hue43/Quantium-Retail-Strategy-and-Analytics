@@ -11,7 +11,7 @@ The simulation consists of three parts. This repository focuses on **Part 1: Dat
 📓 Full Project Notebook
 You can explore the complete analysis process—including data cleaning, exploration, customer segmentation, and insights generation—in the Jupyter Notebook provided below:
 
-[Click here to view the full project notebook](quantium_task1.ipynb)
+[Click here to view the full project notebook](Quantium_task1.ipynb)
 
 ---
 
