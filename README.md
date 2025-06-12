@@ -8,7 +8,10 @@ In this simulation, I stepped into the role of a **Retail Data Analyst**, workin
 
 The simulation consists of three parts. This repository focuses on **Part 1: Data Preparation and Customer Analytics**, which covers cleaning the data, exploring customer behavior, and identifying meaningful customer segments.
 
-**Note:** A complete summary of the project and insights is available in the PDF report included in this repository.
+📓 Full Project Notebook
+You can explore the complete analysis process—including data cleaning, exploration, customer segmentation, and insights generation—in the Jupyter Notebook provided below:
+
+[Click here to view the full project notebook](.quantium_task_1.ipynb)
 
 ---
 
