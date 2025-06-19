@@ -33,7 +33,9 @@ This phase of the project focuses on preparing the data for analysis and extract
   * Investigate relationships between segment behavior and packet size preference.
   * Prepare actionable insights and strategic recommendations for targeting.
 
-### Tools Used
+---
+
+## Tools Used
 
 * **Python**
 
@@ -110,6 +112,6 @@ Based on these findings, we propose the following strategic recommendations:
     * Implement robust inventory planning and increased marketing efforts in the **lead-up to December** to maximize sales during this peak period. Develop specific holiday-themed promotions or limited-time offers to capture increased consumer spending.
 
 5.  **Further Customer Segmentation and Store Performance Analysis:**
-    * The performance of top-contributing **stores** (e.g., Store 226) will also be rigorously analyzed in **Task 2 of the retail strategy analytics** to identify best practices and potential for replication across the network.
+    * Further analysis of high-performing stores (e.g., Store 226) is recommended to uncover factors driving their success and identify opportunities to replicate effective strategies across similar locations.
 
 By strategically acting on these insights, the business can optimize its retail strategy to enhance sales, improve customer engagement, and drive sustained growth within the chips category.
