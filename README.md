@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of a **job simulation hosted by Quantium** on **Forage**, designed to give participants real-world experience in retail data analytics. Quantium is a data science and AI company that partners with leading organizations to help them make data-driven decisions.
+This project is part of a **job simulation hosted by Quantium** on [Forage](https://www.theforage.com), designed to give participants real-world experience in retail data analytics. Quantium is a data science and AI company that partners with leading organizations to help them make data-driven decisions.
 
 In this simulation, I stepped into the role of a **Retail Data Analyst**, working on a request from the **Category Manager for Chips**, who needed insights into customer purchasing behavior across the chip category. The aim is to uncover trends in chip purchases, understand customer segments, and provide actionable recommendations to support the **supermarket's chip strategy for the next six months**.
 
@@ -53,7 +53,7 @@ This phase of the project focuses on preparing the data for analysis and extract
 
 ## 📓Full Project Notebook
 
-You can explore the complete analysis process—including data cleaning, exploration, customer segmentation, and insights generation—in the Jupyter Notebook provided below:
+You can explore the complete analysis process including data cleaning, exploration, customer segmentation, and insights generation in the Jupyter Notebook provided below:
 
 [Click here to view the full project notebook](Quantium_task1.ipynb)
 
