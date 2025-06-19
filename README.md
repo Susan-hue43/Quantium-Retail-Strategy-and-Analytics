@@ -51,11 +51,36 @@ This phase of the project focuses on preparing the data for analysis and extract
 
 ---
 
-## 📓Full Project Notebook
+## Full Project Notebook
 
 You can explore the complete analysis process including data cleaning, exploration, customer segmentation, and insights generation in the Jupyter Notebook provided below:
 
 [Click here to view the full project notebook](Quantium_task1.ipynb)
+
+---
+
+## **Skills Demonstrated**
+
+* **Data Cleaning** –
+  Identified and handled missing values, removed duplicates, and standardized categorical fields for accurate analysis.
+
+* **Feature Engineering** –
+  Created meaningful columns (e.g., customer segment groupings, extracted dates) to support deeper analysis.
+
+* **Exploratory Data Analysis (EDA)** –
+  Explored data distributions and trends using group-level aggregations and comparisons across customer segments.
+
+* **Data Visualization** –
+  Used `matplotlib` and `seaborn` to create stacked bar charts and other plots that clearly show patterns in customer behavior.
+
+* **Customer Segmentation Analysis** –
+  Combined attributes like `LIFESTAGE` and `PREMIUM_CUSTOMER` to identify high-value customer groups and behavioral patterns.
+
+* **Insight Interpretation** –
+  Drew clear, structured insights from the data that highlight relationships between customer types and total sales.
+
+* **Analytical Thinking** –
+  Interpreted visual and numeric outputs to understand how customer attributes impact performance metrics.
 
 ---
 
