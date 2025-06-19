@@ -89,6 +89,26 @@ You can explore the complete analysis process including data cleaning, explorati
 
 ---
 
+## Key Findings:
+
+* **Dominant Customer Segments:** Sales are primarily driven by **Budget - Older Families**, **Mainstream - Young Singles/Couples**, and **Mainstream - Retirees**.
+
+* **Varied Sales Drivers:**
+    * High sales in **Mainstream - Young Singles/Couples** and **Mainstream - Retirees** are largely due to a higher **number of customers**.
+    * High sales in **Budget - Older Families** are attributed to them purchasing a **higher average number of units per transaction**.
+
+* **Premium Pricing Willingness:** **Mainstream Midage Singles/Couples** and **Mainstream Young Singles/Couples** exhibit the highest (and statistically significant) average price paid per unit of chips (\$4.00).
+
+* **Product Preferences:**
+    * Top-selling products include **Dorito Corn Chp Supreme 380g** and **Smiths Crnkle Chip Orgnl Big Bag 380g**.
+    * **Mainstream Young Singles/Couples** show a strong affinity for **larger pack sizes** (e.g., 270g, 330g, 380g), while having a lower affinity for many smaller/medium packs.
+
+* **Brand Specificity for Pack Sizes:** The high affinity for the **270g pack size** is specifically tied to the **Twisties brand**, as they are the sole provider of this size, suggesting brand loyalty.
+
+* **Seasonal Sales Peaks:** A significant **surge in sales occurs in December**, peaking just before Christmas, with zero sales observed on Christmas Day.
+
+---
+
 ## Conclusion
 
 This comprehensive exploratory data analysis has illuminated key aspects of customer behavior and product performance within the chips category. We found that sales are primarily driven by specific customer segments, notably **Budget - Older Families**, **Mainstream - Young Singles/Couples**, and **Mainstream - Retirees**, each contributing through distinct purchasing patterns – either by sheer customer volume or by higher units purchased per transaction. Product preferences show a lean towards larger pack sizes, with specific brands like Twisties holding unique positions. Furthermore, the analysis confirmed a strong seasonal sales surge around December. These insights, derived from a clean and validated dataset, provide a robust foundation for developing targeted retail strategies aimed at optimizing sales, enhancing customer engagement, and driving sustained growth.
