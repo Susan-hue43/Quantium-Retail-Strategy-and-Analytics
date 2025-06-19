@@ -1,5 +1,8 @@
 # Quantium-Retail-Strategy-and-Analytics
 
+![20250619_1353_Quantium Report Design_remix_01jy3x27yqe3bs0k3fwa2qdkq9](https://github.com/user-attachments/assets/6b5433c1-b903-48ac-83f1-b5e405cb47ea)
+
+
 ## Introduction
 
 This project is part of a **job simulation hosted by Quantium** on [Forage](https://www.theforage.com), designed to give participants real-world experience in retail data analytics. Quantium is a data science and AI company that partners with leading organizations to help them make data-driven decisions.
