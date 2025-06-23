@@ -13,6 +13,8 @@
 7. [Conclusion](#conclusion)
 8. [Recommendations](#recommendations)
 
+---
+
 ## Introduction
 
 This project is part of a **job simulation hosted by Quantium** on [Forage](https://www.theforage.com), designed to give participants real-world experience in retail data analytics. Quantium is a data science and AI company that partners with leading organizations to help them make data-driven decisions.
