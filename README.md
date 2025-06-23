@@ -1,6 +1,7 @@
 # Quantium-Retail-Strategy-and-Analytics
 
 ![20250619_1353_Quantium Report Design_remix_01jy3x27yqe3bs0k3fwa2qdkq9](https://github.com/user-attachments/assets/6b5433c1-b903-48ac-83f1-b5e405cb47ea)
+*image credit: Sora*
 
 ## 📑 Table of Contents
 
