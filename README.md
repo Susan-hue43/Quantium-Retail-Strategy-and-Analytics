@@ -2,6 +2,16 @@
 
 ![20250619_1353_Quantium Report Design_remix_01jy3x27yqe3bs0k3fwa2qdkq9](https://github.com/user-attachments/assets/6b5433c1-b903-48ac-83f1-b5e405cb47ea)
 
+## 📑 Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Objectives](#project-objectives)
+3. [Tools Used](#tools-used)
+4. [Full Project Notebook](#full-project-notebook)
+5. [Skills Demonstrated](#skills-demonstrated)
+6. [Key Findings](#key-findings)
+7. [Conclusion](#conclusion)
+8. [Recommendations](#recommendations)
 
 ## Introduction
 
@@ -96,16 +106,28 @@ You can explore the complete analysis process including data cleaning, explorati
 * **Varied Sales Drivers:**
     * High sales in **Mainstream - Young Singles/Couples** and **Mainstream - Retirees** are largely due to a higher **number of customers**.
     * High sales in **Budget - Older Families** are attributed to them purchasing a **higher average number of units per transaction**.
+ 
+![image](https://github.com/user-attachments/assets/709b85e4-2ae8-4895-851d-2f32ff5a2630)
+
 
 * **Premium Pricing Willingness:** **Mainstream Midage Singles/Couples** and **Mainstream Young Singles/Couples** exhibit the highest (and statistically significant) average price paid per unit of chips (\$4.00).
 
-* **Product Preferences:**
-    * Top-selling products include **Dorito Corn Chp Supreme 380g** and **Smiths Crnkle Chip Orgnl Big Bag 380g**.
-    * **Mainstream Young Singles/Couples** show a strong affinity for **larger pack sizes** (e.g., 270g, 330g, 380g), while having a lower affinity for many smaller/medium packs.
+![image](https://github.com/user-attachments/assets/2e34f8d8-df28-4899-9211-e41c2586488e)
+
 
 * **Brand Specificity for Pack Sizes:** The high affinity for the **270g pack size** is specifically tied to the **Twisties brand**, as they are the sole provider of this size, suggesting brand loyalty.
 
+```python
+# Brand and product
+customer_transaction_data.loc[customer_transaction_data['PACK_SIZE']==270, 'PROD_NAME'].unique()
+
+array(['Twisties Cheese     270g', 'Twisties Chicken270g'], dtype=object)
+```
+
 * **Seasonal Sales Peaks:** A significant **surge in sales occurs in December**, peaking just before Christmas, with zero sales observed on Christmas Day.
+
+![image](https://github.com/user-attachments/assets/858f5f38-9c21-4d15-bbe9-563e2eb84c1b)
+
 
 ---
 
